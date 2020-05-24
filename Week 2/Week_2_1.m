@@ -1,3 +1,4 @@
+% Matlab as a Calculator
 Borrowed = 1000;
 Interest = 0.1;
 debt_1 = Borrowed*Interest+Borrowed;
